@@ -1,0 +1,7 @@
+{
+  "versionCode": 3,
+  "versionName": "1.2.0",
+  "notes": "Авто-переключение каналов, приложения в обход VPN, честный пинг, обновление по воздуху",
+  "apk": "https://github.com/benefit-ru/flou-releases/releases/download/v1.2.0/FLOU-1.2.0.apk",
+  "apkTv": "https://github.com/benefit-ru/flou-releases/releases/download/v1.2.0/FLOU-1.2.0-tv-lite.apk"
+}
