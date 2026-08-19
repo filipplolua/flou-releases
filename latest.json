@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "1.2.2",
-  "notes": "Системный шрифт Apple, убраны лишние свечения на главном экране, плотность интерфейса следует размеру текста",
-  "apk": "https://github.com/benefit-ru/flou-releases/releases/download/v1.2.2/FLOU-1.2.2.apk",
-  "apkTv": "https://github.com/benefit-ru/flou-releases/releases/download/v1.2.2/FLOU-1.2.2-tv-lite.apk"
+  "versionCode": 6,
+  "versionName": "1.2.3",
+  "notes": "Исправлена утечка DNS: реальная локация больше не раскрывается через резолвер провайдера. Блокировка IPv6, авто-переключение не меняет страну, честный статус при обрыве канала",
+  "apk": "https://github.com/benefit-ru/flou-releases/releases/download/v1.2.3/FLOU-1.2.3.apk",
+  "apkTv": "https://github.com/benefit-ru/flou-releases/releases/download/v1.2.3/FLOU-1.2.3-tv-lite.apk"
 }
