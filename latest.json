@@ -1,7 +1,9 @@
 {
-  "versionCode": 6,
-  "versionName": "1.2.3",
-  "notes": "Исправлена утечка DNS: реальная локация больше не раскрывается через резолвер провайдера. Блокировка IPv6, авто-переключение не меняет страну, честный статус при обрыве канала",
-  "apk": "https://github.com/benefit-ru/flou-releases/releases/download/v1.2.3/FLOU-1.2.3.apk",
-  "apkTv": "https://github.com/benefit-ru/flou-releases/releases/download/v1.2.3/FLOU-1.2.3-tv-lite.apk"
+  "versionCode": 7,
+  "versionName": "1.2.4",
+  "notes": "Блокировка приложения по биометрии, экспорт и импорт резервной копии серверов и настроек, надёжное хранение ключей и строгая проверка сертификатов",
+  "apk": "https://github.com/benefit-ru/flou-releases/releases/download/v1.2.4/FLOU-1.2.4.apk",
+  "apkTv": "https://github.com/benefit-ru/flou-releases/releases/download/v1.2.4/FLOU-1.2.4-tv-lite.apk",
+  "apkSha256": "b32dbf5843c7c11dc3bab6e04ebb17379cad3d661293ac8e29eda56858fe5dd3",
+  "apkTvSha256": "d626bc2314873adc991993a8d0053e4accc39d1b48dd6044a81b61fcdefedaaa"
 }
