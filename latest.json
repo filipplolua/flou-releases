@@ -1,9 +1,9 @@
 {
-  "versionCode": 7,
-  "versionName": "1.2.4",
-  "notes": "Блокировка приложения по биометрии, экспорт и импорт резервной копии серверов и настроек, надёжное хранение ключей и строгая проверка сертификатов",
-  "apk": "https://github.com/benefit-ru/flou-releases/releases/download/v1.2.4/FLOU-1.2.4.apk",
-  "apkTv": "https://github.com/benefit-ru/flou-releases/releases/download/v1.2.4/FLOU-1.2.4-tv-lite.apk",
-  "apkSha256": "b32dbf5843c7c11dc3bab6e04ebb17379cad3d661293ac8e29eda56858fe5dd3",
-  "apkTvSha256": "d626bc2314873adc991993a8d0053e4accc39d1b48dd6044a81b61fcdefedaaa"
+  "versionCode": 8,
+  "versionName": "1.2.5",
+  "notes": "Стабильность связи: приложение само замечает канал, который подключился, но не пропускает интернет, и переходит на рабочий; исправлены лишние переподключения и автопереключение на Hysteria. Поддержка смены портов Hysteria (ссылки с mport).",
+  "apk": "https://github.com/benefit-ru/flou-releases/releases/download/v1.2.5/FLOU-1.2.5.apk",
+  "apkTv": "https://github.com/benefit-ru/flou-releases/releases/download/v1.2.5/FLOU-1.2.5-tv-lite.apk",
+  "apkSha256": "1b8fbd25240b0b75912a90441d279ddef8b4638d6f7c343559a84aca1e708ba0",
+  "apkTvSha256": "9c160b687408a2d7631543d97e059d05abc1cc703e1fc628d0a243b3dd328c0e"
 }
