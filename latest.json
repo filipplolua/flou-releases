@@ -2,8 +2,8 @@
   "versionCode": 8,
   "versionName": "1.2.5",
   "notes": "Стабильность связи: приложение само замечает канал, который подключился, но не пропускает интернет, и переходит на рабочий; исправлены лишние переподключения и автопереключение на Hysteria. Поддержка смены портов Hysteria (ссылки с mport).",
-  "apk": "https://github.com/benefit-ru/flou-releases/releases/download/v1.2.5/FLOU-1.2.5.apk",
-  "apkTv": "https://github.com/benefit-ru/flou-releases/releases/download/v1.2.5/FLOU-1.2.5-tv-lite.apk",
+  "apk": "https://github.com/filipplolua/flou-releases/releases/download/v1.2.5/FLOU-1.2.5.apk",
+  "apkTv": "https://github.com/filipplolua/flou-releases/releases/download/v1.2.5/FLOU-1.2.5-tv-lite.apk",
   "apkSha256": "1b8fbd25240b0b75912a90441d279ddef8b4638d6f7c343559a84aca1e708ba0",
   "apkTvSha256": "9c160b687408a2d7631543d97e059d05abc1cc703e1fc628d0a243b3dd328c0e"
 }
